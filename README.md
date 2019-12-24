@@ -1106,13 +1106,29 @@ Wifi | Power | Address | Open Hours
 
 ####  Eric Kayser
 
-> Open space even with wifi outdoors and nice cakes, could be noisy sometimes 
+> Open space even with wifi outdoors and nice cakes, could be noisy sometimes
 
 Webpage: https://www.facebook.com/erickayserportugal
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Amoreiras Plaza Rua Professor, R. Carlos Alberto da Mota Pinto 9, 1250-252 Lisboa](https://goo.gl/maps/zxuU8HZMJbRwNpPWA) | Sat-Sun 08:00 - 20:00, Mon-Fri 07:30 - 20:30
+
+#### Biblioteca Camões
+
+> Old building with a nice view of the bay and a pleasant breeze. It's at the top of a big hill, so enter through Baixa-Chiado station where a set of escalators will take to the top. Lots of cheap restaurants nearby with good food.
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Largo Calhariz 17, 1200-086 Lisboa, Portugal](https://goo.gl/maps/DSAJgve7qQnstKAv9) | Mon-Sat 10:30AM-6PM |
+
+#### Crew Hassan - Cultural Cooperative C. L. R.
+
+> Record store/music venue/and cafe with internet and good vibes. Great place to hangout in the afternoon with some beers. Doesn't open until later. Good group seating.
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [R. Andrade 8A, 1170-014 Lisboa, Portugal](https://goo.gl/maps/MhbHDAzMA7MmVs7a6) | Mon-Sun 6pm-2am |
 
 ## Porto
 
